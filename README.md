@@ -22,14 +22,14 @@ Downloaded from https://www.kaggle.com/snap/amazon-fine-food-reviews The amazon 
 
 ## Objective
 To determine whether the review given is positive(score rating of 4 or 5 stars) or negative(score rating of 1 or 2 stars) by applying following algorithms and test their performance: 
-1.Text Preprocessing
-2.PCA and TSNE 
-3.KNN
-4.Naive Bayes
-5.Logistic Regression
-6.Support Vector Machine
-7.Decision Tree
-8.Random Forest and XGBoost
+1. Text Preprocessing
+2. PCA and TSNE 
+3. KNN
+4. Naive Bayes
+5. Logistic Regression
+6. Support Vector Machine
+7. Decision Tree
+8. Random Forest and XGBoost
 
 
 
