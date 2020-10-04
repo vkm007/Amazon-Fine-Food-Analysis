@@ -30,6 +30,7 @@ To determine whether the review given is positive(score rating of 4 or 5 stars) 
 6. Support Vector Machine
 7. Decision Tree
 8. Random Forest and XGBoost
+9. K-means, Agglomerative and DBSCAN clustering
 
 
 
